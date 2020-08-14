@@ -1,6 +1,6 @@
 # French Cafe Website
 
-Bootstrap
+Bootstrap 4 Template
 
 ## visit website 
 
